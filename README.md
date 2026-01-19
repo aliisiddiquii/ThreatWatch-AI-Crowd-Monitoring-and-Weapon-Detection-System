@@ -1,0 +1,2 @@
+# ThreatWatch-AI-Crowd-Monitoring-and-Weapon-Detection-System
+ThreatWatch AI an AI-powered real-time surveillance system that focuses equally on crowd detection and weapon detection using computer vision and deep learning techniques. The system analyzes live video streams or recorded footage to monitor crowd density, detect the presence of weapons, and identify potential security threats in public spaces.
